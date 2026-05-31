@@ -9,6 +9,8 @@ Two PostgreSQL tables:
 - table1: Patient information
 - table2: Lesion information
 
+The tables are connected through the 'patient_id' field
+ 
 # Aspects analysed
 Demographics:
 - Age-group risk
@@ -47,3 +49,7 @@ Lifesytle-related analysis:
 - BCC is the most common diagnosis among smokers and drinkers.
 - Poor sanitation does not correlate strongly with severe outcomes.
 
+# Tools Used
+- PostgreSQL
+- Power BI
+- GitHub
