@@ -44,10 +44,10 @@ Lifesytle-related analysis:
 # Key Insights
 - Middle‑aged adults and males show the highest diagnosis rates.
 - The face is the most affected region across all diagnosis types.
-- Actinic keratosis (ACK) is the most common diagnosis.
+- Actinic keratosis (ACK) is the most common diagnosis among all patients.
 - Melanoma (MEL) has the largest average lesion diameter.
 - Lifestyle factors (smoking & drinking) significantly increase the likelihood of severe diagnoses.
-- BCC is the most common diagnosis among smokers and drinkers.
+- Basal Cell Carcinoma (BCC) is the most common diagnosis among smokers and drinkers.
 - Poor sanitation does not correlate strongly with severe outcomes.
 
 # Tools Used
