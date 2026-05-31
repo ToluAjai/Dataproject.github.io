@@ -16,7 +16,7 @@ Demographics:
 - History of skin cancer
 - Malignant diagnoses by body region
 
-Lesions anaylsis:
+Lesions analysis:
 - Lesion growth
 - Symptom prevalence
 - Biopsy counts
