@@ -1,5 +1,5 @@
 # Skin Cancer SQL Analytics Project
-This repository contains a full SQL analytics project exploring demographic, clinical, environmental, and lifestyle factors associated with skin cancer diagnoses. The project uses various SQL techniques like joins, WINDOW functions, CASE statements and CTEs to produce clean, reproducible insights.
+This repository contains a full SQL analytics project exploring demographic, clinical, environmental, and lifestyle factors associated with skin cancer diagnoses in a patient population. The project uses various SQL techniques like joins, WINDOW functions, CASE statements and CTEs to produce clean, reproducible insights.
 
 Note: This project uses fully synthetic, non‑identifiable healthcare data created for learning and demonstration purposes. No real patient information is included.
 
